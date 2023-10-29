@@ -1,0 +1,10 @@
+c:\users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\bin\Debug\JuegoPacman.exe.config
+c:\users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\obj\Debug\JuegoPacman.csprojResolveAssemblyReference.cache
+c:\users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\obj\Debug\JuegoPacman.Properties.Resources.resources
+c:\users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\obj\Debug\JuegoPacman.csproj.GenerateResource.Cache
+c:\users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\bin\Debug\JuegoPacman.exe
+c:\users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\bin\Debug\JuegoPacman.pdb
+c:\users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\obj\Debug\JuegoPacman.exe
+c:\users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\obj\Debug\JuegoPacman.pdb
+C:\Users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\obj\Debug\JuegoPacman.ventanaDeJuego.resources
+C:\Users\gvela\onedrive\documents\visual studio 2012\Projects\JuegoPacman\JuegoPacman\obj\Debug\JuegoPacman.Mapa.resources
